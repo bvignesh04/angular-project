@@ -1,0 +1,38 @@
+/* body{
+   
+    border: 2px solid red;
+}
+
+div{
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+} */
+.list{
+ list-style: none;
+}
+.add-btn{
+    background-color:rgb(3, 3, 36);
+    border: none;
+    width: 95%;
+    margin: auto;
+}
+
+.container{
+margin-top: 70px;
+display: flex;
+justify-content: center;
+align-items: center;
+/* height: 100vh; */
+
+}
+
+
+.teams-container{
+    
+     justify-content: center;
+    align-items: center;
+    width: 43%;
+    margin: auto; 
+    }
